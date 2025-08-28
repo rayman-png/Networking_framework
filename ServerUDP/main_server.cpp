@@ -47,7 +47,7 @@ prior written consent of DigiPen Institute of Technology is prohibited.
 #define MAX_STR_LEN         1000
 
 #define MAX_PLAYERS         4
-#define TOTAL_PLAYERS       3
+#define TOTAL_PLAYERS       1
 #define UPDATE_RATE         50
 #define TIME_SYNC           5
 #define TOTAL_TIME          60
